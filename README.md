@@ -20,9 +20,9 @@ Please keep in mind the TOS for using these files:
 	Obvious examples include child abuse, non-consentual acts, gore, extreme fetishes and so on.
 	If you are uncertain if your work qualifies, feel free contact PawPunch on the original discord (see links below)
 
+Happy modding!
 
 Contact Information:
 
 Itch.io: https://itch.io/profile/pawpunchdev
-
 Discord: https://discord.gg/YskD58nfDb
